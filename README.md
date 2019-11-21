@@ -1,4 +1,4 @@
 GameDevPapers
 =============
 
-All my project concern the technical paper of game Development. Those posts are orginally released by some well-known Japanese game corporates which resourced from cedec and official websites. Here I selected and translated them from Japapnese into Chinese for those who interested
+My projects are about technical papers of game development. The posts are from well-known Japanese corporates and Cedec. I translated the posts from Japanese into Chinese for those interested.
